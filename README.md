@@ -1325,6 +1325,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ConvertFileFast](https://www.convertfilefast.com) `https://mcp.convertfilefast.com/mcp`
   [![ConvertFileFast MCP connector](https://glama.ai/mcp/connectors/io.github.MLTCorp/convertfilefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.MLTCorp/convertfilefast)
   🔓 - Convert documents, images and data files between formats, and merge, split, compress or protect PDFs.
+- [COVER](https://apps.suresofttech.com/cover) `https://apps.suresofttech.com/cover/mcp`
+  [![COVER MCP connector](https://glama.ai/mcp/connectors/com.suresofttech.apps/cover/badges/score.svg)](https://glama.ai/mcp/connectors/com.suresofttech.apps/cover)
+  🔓 - Answers questions about the COVER code coverage tool from its official product page.
 - [Cuelark Tools](https://tools.cuelark.com/mcp) `https://tools.cuelark.com/mcp`
   [![Cuelark Tools MCP connector](https://glama.ai/mcp/connectors/com.cuelark/tools/badges/score.svg)](https://glama.ai/mcp/connectors/com.cuelark/tools)
   🔓 - Exact text and data tools: JSON, tokens, cron, dates, US tax, routing checks, and citations.
@@ -1636,6 +1639,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Speedbot.dev](https://speedbot.dev) `https://speedbot.dev/mcp/core`
   [![Speedbot.dev MCP connector](https://glama.ai/mcp/connectors/io.github.ulasarslan6262-ui/speedbot/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ulasarslan6262-ui/speedbot)
   🔓 - Preview free Hire plans for independent AI agent code review, research, and data checks.
+- [STATIC](https://apps.suresofttech.com/static) `https://apps.suresofttech.com/static/mcp`
+  [![STATIC MCP connector](https://glama.ai/mcp/connectors/com.suresofttech.apps/static/badges/score.svg)](https://glama.ai/mcp/connectors/com.suresofttech.apps/static)
+  🔓 - Answers questions about the STATIC static analysis tool from its official product page.
 - [StoreFast](https://storefast.app/docs/mcp) `https://storefast.app/mcp`
   [![StoreFast MCP connector](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LegendarySpy/storefast)
   🔐 - Publish MSIX updates to the Microsoft Store, translate release notes, edit listings, and read downloads and reviews.
